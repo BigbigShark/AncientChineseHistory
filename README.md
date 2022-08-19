@@ -15,6 +15,10 @@ But,
 
 Most importantly, look forward to your guidance or advice.
 
+## Current Progress
+
+1. Updating Ming Dynasty
+
 ## Contact me
 
 ning1004@yeah.net
